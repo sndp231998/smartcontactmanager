@@ -11,7 +11,7 @@ boot/blob/master/src/main/resources/static/img/gitimg1.PNG)
 
 
 ### Contact Profile
-![](https://github.com/kuldeepvishwakarma05/smart-contact-manager-using-spring-!
+![](https://github.com/sndp231998/smartcontactmanagerr
 ![]https://github.com/sndp231998/smartcontactmanagerr
 /blob/master/src/main/resources/static/img/gitimg3.PNG)
 
