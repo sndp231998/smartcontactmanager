@@ -1,20 +1,23 @@
 # Smart Contact Manager using Spring-Boot-API :smiling_face_with_three_hearts:
 
 ### Home Page
-![](https://github.com/kuldeepvishwakarma05/smart-contact-manager-using-spring-boot/blob/master/src/main/resources/static/img/gitimg2.PNG)
+![](https://github.com/sndp231998/smartcontactmanagerr
+boot/blob/master/src/main/resources/static/img/gitimg2.PNG)
 
 
 ### User Dashboard
-![](https://github.com/kuldeepvishwakarma05/smart-contact-manager-using-spring-boot/blob/master/src/main/resources/static/img/gitimg1.PNG)
+![](https://github.com/sndp231998/smartcontactmanagerr
+boot/blob/master/src/main/resources/static/img/gitimg1.PNG)
 
 
 ### Contact Profile
-![](https://github.com/kuldeepvishwakarma05/smart-contact-manager-using-spring-boot/blob/master/src/main/resources/static/img/gitimg3.PNG)
+![](https://github.com/kuldeepvishwakarma05/smart-contact-manager-using-spring-!
+![]https://github.com/sndp231998/smartcontactmanagerr
+/blob/master/src/main/resources/static/img/gitimg3.PNG)
 
 
-## developed by -  Kuldeep Vishwakarma
+## developed by -  sandip chapagain
   ### 
   
 Download this project using Github CLI -
- > `gh repo clone kuldeepvishwakarma05/smart-contact-manager-using-spring-boot`
-
+ > `gh repo clone https://github.com/sndp231998/smartcontactmanagerr`
